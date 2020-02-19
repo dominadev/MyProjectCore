@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj": {}
+    "D:\\Code\\MyProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj": {}
   },
   "projects": {
-    "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj": {
+    "D:\\Code\\MyProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj",
+        "projectUniqueName": "D:\\Code\\MyProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj",
         "projectName": "ProjectCore.Model",
-        "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj",
+        "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj",
         "packagesPath": "C:\\Users\\Thu's\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Model\\obj\\",
+        "outputPath": "D:\\Code\\MyProjectCore\\ProjectCore.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

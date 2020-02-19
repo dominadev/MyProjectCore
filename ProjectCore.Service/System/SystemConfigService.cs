@@ -4,9 +4,12 @@ using ProjectCore.Data;
 using ProjectCore.EFCore;
 using ProjectCore.Model.EntityModel;
 using ProjectCore.Model.Parameter;
+using ProjectCore.Ultility.ExpressionExtention;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
+using System.Reflection;
 using System.Text;
 
 namespace ProjectCore.Service.System
@@ -35,14 +38,32 @@ namespace ProjectCore.Service.System
         }
         public IEnumerable<SystemConfig> GetListPaging(BasePagingParam param, ref int totalRow)
         {
-            var listSystemConfig = _UnitOfWork.SystemConfigRepository.GetMultiPaging(
+            IEnumerable<SystemConfig> listSystemConfig = new List<SystemConfig>();
+            switch (param.SortName)
+            {
+                case "Key":
+                    listSystemConfig = _UnitOfWork.SystemConfigRepository.GetMultiPaging(
+                        t => param.SearchText == null || (param.SearchText != null && t.Key.Contains(param.SearchText)),
+                         out totalRow,
+                         param.PageNumber,
+                         param.PageSize,
+                         null,
+                        t => t.OrderBy(a => a.Key)
+                    ).ToList();
+                    break;
+                case "Value":
+                    listSystemConfig = _UnitOfWork.SystemConfigRepository.GetMultiPaging(
+                         t => param.SearchText == null || (param.SearchText != null && t.Key.Contains(param.SearchText)),
+                          out totalRow,
+                          param.PageNumber,
+                          param.PageSize,
+                          null,
+                         t => t.OrderBy(a => a.Value)
+                     ).ToList();
+                    break;
 
-                t => param.SearchText == null || (param.SearchText != null && t.Key.Contains(param.SearchText)),
-                 out totalRow,
-                 param.PageNumber,
-                 param.PageSize             
-
-            ).ToList();
+            }
+         
             return listSystemConfig;
         }
         public void Delete(int Id)
@@ -51,6 +72,7 @@ namespace ProjectCore.Service.System
             _UnitOfWork.SystemConfigRepository.Delete(entity);
             _UnitOfWork.Commit();
         }
-
+     
+       
     }
 }

@@ -18,7 +18,7 @@ namespace ProjectCore.UnitTesting
             {
                 SystemConfig systemConfig = new SystemConfig();
                 systemConfig.Key = "KeyTest" + i;
-                systemConfig.Value = "Value" + i;
+                systemConfig.Value = "Value" + (100-i);
                 systemConfig.Description = "Description"+i;
                 systemConfigService.AddAsync(systemConfig);
 

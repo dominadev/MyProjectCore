@@ -1771,6 +1771,16 @@
         "runtime": {
           "bin/placeholder/ProjectCore.Model.dll": {}
         }
+      },
+      "ProjectCore.Ultility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/ProjectCore.Ultility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectCore.Ultility.dll": {}
+        }
       }
     }
   },
@@ -6049,12 +6059,18 @@
       "type": "project",
       "path": "../ProjectCore.Model/ProjectCore.Model.csproj",
       "msbuildProject": "../ProjectCore.Model/ProjectCore.Model.csproj"
+    },
+    "ProjectCore.Ultility/1.0.0": {
+      "type": "project",
+      "path": "../ProjectCore.Ultility/ProjectCore.Ultility.csproj",
+      "msbuildProject": "../ProjectCore.Ultility/ProjectCore.Ultility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
       "ProjectCore.Core >= 1.0.0",
-      "ProjectCore.Data >= 1.0.0"
+      "ProjectCore.Data >= 1.0.0",
+      "ProjectCore.Ultility >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6064,11 +6080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj",
+      "projectUniqueName": "D:\\Code\\MyProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj",
       "projectName": "ProjectCore.Service",
-      "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj",
+      "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj",
       "packagesPath": "C:\\Users\\Thu's\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Service\\obj\\",
+      "outputPath": "D:\\Code\\MyProjectCore\\ProjectCore.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6087,11 +6103,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj": {
-              "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj"
+            "D:\\Code\\MyProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj"
             },
-            "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Data\\ProjectCore.Data.csproj": {
-              "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Data\\ProjectCore.Data.csproj"
+            "D:\\Code\\MyProjectCore\\ProjectCore.Data\\ProjectCore.Data.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Data\\ProjectCore.Data.csproj"
+            },
+            "D:\\Code\\MyProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj"
             }
           }
         }

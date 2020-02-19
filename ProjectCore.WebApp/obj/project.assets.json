@@ -2943,7 +2943,8 @@
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
           "ProjectCore.Core": "1.0.0",
-          "ProjectCore.Data": "1.0.0"
+          "ProjectCore.Data": "1.0.0",
+          "ProjectCore.Ultility": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ProjectCore.Service.dll": {}
@@ -9171,11 +9172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.WebApp\\ProjectCore.WebApp.csproj",
+      "projectUniqueName": "D:\\Code\\MyProjectCore\\ProjectCore.WebApp\\ProjectCore.WebApp.csproj",
       "projectName": "ProjectCore.WebApp",
-      "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.WebApp\\ProjectCore.WebApp.csproj",
+      "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.WebApp\\ProjectCore.WebApp.csproj",
       "packagesPath": "C:\\Users\\Thu's\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.WebApp\\obj\\",
+      "outputPath": "D:\\Code\\MyProjectCore\\ProjectCore.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9194,14 +9195,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj": {
-              "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj"
+            "D:\\Code\\MyProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj"
             },
-            "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj": {
-              "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj"
+            "D:\\Code\\MyProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj"
             },
-            "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj": {
-              "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj"
+            "D:\\Code\\MyProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj"
             }
           }
         }

@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using ProjectCore.Core.Service;
 using ProjectCore.EFCore;
 using ProjectCore.Model.EntityModel;
 using ProjectCore.Model.Parameter;
@@ -14,7 +15,7 @@ namespace ProjectCore.WebApp.Controllers
 {
     public class SystemConfigController : BaseController
     {
-        private readonly SystemConfigService _systemConfigService;
+        private readonly ISystemconfigService _systemConfigService;
 
         public SystemConfigController(SystemConfigService systemConfigService)
         {

@@ -5882,11 +5882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj",
+      "projectUniqueName": "D:\\Code\\MyProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj",
       "projectName": "ProjectCore.EFCore",
-      "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj",
+      "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj",
       "packagesPath": "C:\\Users\\Thu's\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.EFCore\\obj\\",
+      "outputPath": "D:\\Code\\MyProjectCore\\ProjectCore.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5905,8 +5905,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj": {
-              "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj"
+            "D:\\Code\\MyProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj"
             }
           }
         }

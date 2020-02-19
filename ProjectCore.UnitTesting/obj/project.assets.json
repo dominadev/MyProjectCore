@@ -2481,13 +2481,24 @@
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
           "ProjectCore.Core": "1.0.0",
-          "ProjectCore.Data": "1.0.0"
+          "ProjectCore.Data": "1.0.0",
+          "ProjectCore.Ultility": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ProjectCore.Service.dll": {}
         },
         "runtime": {
           "bin/placeholder/ProjectCore.Service.dll": {}
+        }
+      },
+      "ProjectCore.Ultility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/ProjectCore.Ultility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectCore.Ultility.dll": {}
         }
       }
     }
@@ -8017,6 +8028,11 @@
       "type": "project",
       "path": "../ProjectCore.Service/ProjectCore.Service.csproj",
       "msbuildProject": "../ProjectCore.Service/ProjectCore.Service.csproj"
+    },
+    "ProjectCore.Ultility/1.0.0": {
+      "type": "project",
+      "path": "../ProjectCore.Ultility/ProjectCore.Ultility.csproj",
+      "msbuildProject": "../ProjectCore.Ultility/ProjectCore.Ultility.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8035,11 +8051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.UnitTesting\\ProjectCore.UnitTesting.csproj",
+      "projectUniqueName": "D:\\Code\\MyProjectCore\\ProjectCore.UnitTesting\\ProjectCore.UnitTesting.csproj",
       "projectName": "ProjectCore.UnitTesting",
-      "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.UnitTesting\\ProjectCore.UnitTesting.csproj",
+      "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.UnitTesting\\ProjectCore.UnitTesting.csproj",
       "packagesPath": "C:\\Users\\Thu's\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.UnitTesting\\obj\\",
+      "outputPath": "D:\\Code\\MyProjectCore\\ProjectCore.UnitTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8058,11 +8074,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj": {
-              "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj"
+            "D:\\Code\\MyProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj"
             },
-            "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj": {
-              "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj"
+            "D:\\Code\\MyProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Service\\ProjectCore.Service.csproj"
             }
           }
         }

@@ -1876,11 +1876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj",
+      "projectUniqueName": "D:\\Code\\MyProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj",
       "projectName": "ProjectCore.Core",
-      "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj",
+      "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj",
       "packagesPath": "C:\\Users\\Thu's\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Core\\obj\\",
+      "outputPath": "D:\\Code\\MyProjectCore\\ProjectCore.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1899,8 +1899,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj": {
-              "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj"
+            "D:\\Code\\MyProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Model\\ProjectCore.Model.csproj"
             }
           }
         }

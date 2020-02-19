@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj": {}
+    "D:\\Code\\MyProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj": {}
   },
   "projects": {
-    "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj": {
+    "D:\\Code\\MyProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj",
+        "projectUniqueName": "D:\\Code\\MyProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj",
         "projectName": "ProjectCore.Ultility",
-        "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj",
+        "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Ultility\\ProjectCore.Ultility.csproj",
         "packagesPath": "C:\\Users\\Thu's\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Ultility\\obj\\",
+        "outputPath": "D:\\Code\\MyProjectCore\\ProjectCore.Ultility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

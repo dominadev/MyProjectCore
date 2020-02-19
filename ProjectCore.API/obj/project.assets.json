@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.API\\ProjectCore.API.csproj",
+      "projectUniqueName": "D:\\Code\\MyProjectCore\\ProjectCore.API\\ProjectCore.API.csproj",
       "projectName": "ProjectCore.API",
-      "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.API\\ProjectCore.API.csproj",
+      "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.API\\ProjectCore.API.csproj",
       "packagesPath": "C:\\Users\\Thu's\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.API\\obj\\",
+      "outputPath": "D:\\Code\\MyProjectCore\\ProjectCore.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6045,11 +6045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Data\\ProjectCore.Data.csproj",
+      "projectUniqueName": "D:\\Code\\MyProjectCore\\ProjectCore.Data\\ProjectCore.Data.csproj",
       "projectName": "ProjectCore.Data",
-      "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Data\\ProjectCore.Data.csproj",
+      "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Data\\ProjectCore.Data.csproj",
       "packagesPath": "C:\\Users\\Thu's\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Data\\obj\\",
+      "outputPath": "D:\\Code\\MyProjectCore\\ProjectCore.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6068,11 +6068,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj": {
-              "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj"
+            "D:\\Code\\MyProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.Core\\ProjectCore.Core.csproj"
             },
-            "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj": {
-              "projectPath": "D:\\Code\\ProjectCore\\ProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj"
+            "D:\\Code\\MyProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj": {
+              "projectPath": "D:\\Code\\MyProjectCore\\ProjectCore.EFCore\\ProjectCore.EFCore.csproj"
             }
           }
         }
