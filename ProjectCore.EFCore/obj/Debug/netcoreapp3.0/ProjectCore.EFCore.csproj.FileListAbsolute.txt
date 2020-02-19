@@ -1,0 +1,13 @@
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\bin\Debug\netcoreapp3.0\ProjectCore.EFCore.deps.json
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\bin\Debug\netcoreapp3.0\ProjectCore.EFCore.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\obj\Debug\netcoreapp3.0\ProjectCore.EFCore.csprojAssemblyReference.cache
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\obj\Debug\netcoreapp3.0\ProjectCore.EFCore.AssemblyInfoInputs.cache
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\obj\Debug\netcoreapp3.0\ProjectCore.EFCore.AssemblyInfo.cs
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\bin\Debug\netcoreapp3.0\ProjectCore.EFCore.runtimeconfig.json
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\bin\Debug\netcoreapp3.0\ProjectCore.EFCore.runtimeconfig.dev.json
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\bin\Debug\netcoreapp3.0\ProjectCore.EFCore.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\bin\Debug\netcoreapp3.0\ProjectCore.Model.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\bin\Debug\netcoreapp3.0\ProjectCore.Model.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\obj\Debug\netcoreapp3.0\ProjectCore.EFCore.csproj.CopyComplete
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\obj\Debug\netcoreapp3.0\ProjectCore.EFCore.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.EFCore\obj\Debug\netcoreapp3.0\ProjectCore.EFCore.pdb

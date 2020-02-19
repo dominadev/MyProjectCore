@@ -1,0 +1,17 @@
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\bin\Debug\netcoreapp3.0\ProjectCore.Service.deps.json
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\bin\Debug\netcoreapp3.0\ProjectCore.Service.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\bin\Debug\netcoreapp3.0\ProjectCore.Service.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\obj\Debug\netcoreapp3.0\ProjectCore.Service.csprojAssemblyReference.cache
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\obj\Debug\netcoreapp3.0\ProjectCore.Service.AssemblyInfoInputs.cache
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\obj\Debug\netcoreapp3.0\ProjectCore.Service.AssemblyInfo.cs
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\obj\Debug\netcoreapp3.0\ProjectCore.Service.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\obj\Debug\netcoreapp3.0\ProjectCore.Service.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\bin\Debug\netcoreapp3.0\ProjectCore.Core.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\bin\Debug\netcoreapp3.0\ProjectCore.Model.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\bin\Debug\netcoreapp3.0\ProjectCore.Core.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\bin\Debug\netcoreapp3.0\ProjectCore.Model.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\obj\Debug\netcoreapp3.0\ProjectCore.Service.csproj.CopyComplete
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\bin\Debug\netcoreapp3.0\ProjectCore.Data.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\bin\Debug\netcoreapp3.0\ProjectCore.EFCore.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\bin\Debug\netcoreapp3.0\ProjectCore.Data.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Service\bin\Debug\netcoreapp3.0\ProjectCore.EFCore.pdb
