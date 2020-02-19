@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectCore.EFCore\ProjectCore.EFCore.csproj" />
+    <ProjectReference Include="..\ProjectCore.Service\ProjectCore.Service.csproj" />
+    <ProjectReference Include="..\ProjectCore.Ultility\ProjectCore.Ultility.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

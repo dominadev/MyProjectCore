@@ -1,0 +1,15 @@
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\bin\Debug\netcoreapp3.0\ProjectCore.Data.deps.json
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\bin\Debug\netcoreapp3.0\ProjectCore.Data.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\bin\Debug\netcoreapp3.0\ProjectCore.Data.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\obj\Debug\netcoreapp3.0\ProjectCore.Data.csprojAssemblyReference.cache
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\obj\Debug\netcoreapp3.0\ProjectCore.Data.AssemblyInfoInputs.cache
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\obj\Debug\netcoreapp3.0\ProjectCore.Data.AssemblyInfo.cs
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\obj\Debug\netcoreapp3.0\ProjectCore.Data.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\obj\Debug\netcoreapp3.0\ProjectCore.Data.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\bin\Debug\netcoreapp3.0\ProjectCore.Core.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\bin\Debug\netcoreapp3.0\ProjectCore.Core.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\obj\Debug\netcoreapp3.0\ProjectCore.Data.csproj.CopyComplete
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\bin\Debug\netcoreapp3.0\ProjectCore.EFCore.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\bin\Debug\netcoreapp3.0\ProjectCore.Model.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\bin\Debug\netcoreapp3.0\ProjectCore.EFCore.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Data\bin\Debug\netcoreapp3.0\ProjectCore.Model.pdb

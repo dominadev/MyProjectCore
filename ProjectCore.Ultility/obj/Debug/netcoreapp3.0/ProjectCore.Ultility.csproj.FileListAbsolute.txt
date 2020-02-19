@@ -1,0 +1,8 @@
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Ultility\bin\Debug\netcoreapp3.0\ProjectCore.Ultility.deps.json
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Ultility\bin\Debug\netcoreapp3.0\ProjectCore.Ultility.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Ultility\bin\Debug\netcoreapp3.0\ProjectCore.Ultility.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Ultility\obj\Debug\netcoreapp3.0\ProjectCore.Ultility.AssemblyInfoInputs.cache
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Ultility\obj\Debug\netcoreapp3.0\ProjectCore.Ultility.AssemblyInfo.cs
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Ultility\obj\Debug\netcoreapp3.0\ProjectCore.Ultility.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Ultility\obj\Debug\netcoreapp3.0\ProjectCore.Ultility.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Ultility\obj\Debug\netcoreapp3.0\ProjectCore.Ultility.csprojAssemblyReference.cache

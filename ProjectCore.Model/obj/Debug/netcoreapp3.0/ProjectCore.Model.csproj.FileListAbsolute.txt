@@ -1,0 +1,8 @@
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Model\bin\Debug\netcoreapp3.0\ProjectCore.Model.deps.json
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Model\bin\Debug\netcoreapp3.0\ProjectCore.Model.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Model\bin\Debug\netcoreapp3.0\ProjectCore.Model.pdb
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Model\obj\Debug\netcoreapp3.0\ProjectCore.Model.csprojAssemblyReference.cache
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Model\obj\Debug\netcoreapp3.0\ProjectCore.Model.AssemblyInfoInputs.cache
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Model\obj\Debug\netcoreapp3.0\ProjectCore.Model.AssemblyInfo.cs
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Model\obj\Debug\netcoreapp3.0\ProjectCore.Model.dll
+D:\Code\ProjectCore\ProjectCore\ProjectCore.Model\obj\Debug\netcoreapp3.0\ProjectCore.Model.pdb
